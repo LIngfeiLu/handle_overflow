@@ -1,0 +1,12 @@
+73 cents in change:
+- 2 quarters
+- 2 dimes
+- 3 pennies
+41 cents in change:
+- 1 quarters
+- 1 dimes
+- 1 nickels
+- 1 pennies
+25 cents in change:
+- 1 quarters
+0 cents in change:
